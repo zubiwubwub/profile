@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,800|Roboto:400,700|Source+Sans+Pro&display=swap');
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/list.css");
+@import url("components/text.css");
+
+body {
+  background-color: #DFDFDF;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #555555;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #333333;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 0;
+}
+
+h2 {
+  color: #555555;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+  line-height: 1px;
+  padding: 10px;
+}
+p {
+  padding: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+a {
+  margin-top: 10px;
+  margin-bottom: 10px
+  padding: 40px;
+  text-decoration: none;
+  color: #999999;
+  font-size: 20px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}

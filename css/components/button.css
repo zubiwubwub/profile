@@ -1,0 +1,16 @@
+.btn-blue {
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+  font-weight: bold;
+  background: linear-gradient(#f0463a, #ba362d);
+  transition: background 0.3s ease;
+  border: 1px solid #ba362d;
+}
+
+.btn-blue:hover {
+  background: linear-gradient(#e05d53, #96140b);
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
